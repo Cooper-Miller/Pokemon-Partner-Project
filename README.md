@@ -10,6 +10,7 @@ Our Addtional Features Are:
 - Capture chance (50%)
 
 Make sure to check the requirements section.
+To run streamlit, run the code noramlly, then in the terminal enter streamlit run /Users/USER/Pokemon_Project.py or which ever directory it is stored in and named.
 
 Addtionally, the program does not pass all PEP8 standards since streamlit causes lines to be overly long and also while working on vscode, the lines didnt seem overly long (most of the time). Addtionally, the blank lines between code blocks are different from PEP8 standards because, for this project, they made it far more clear and organized.
 
