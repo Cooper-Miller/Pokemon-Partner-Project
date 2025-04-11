@@ -2,13 +2,12 @@
 This is my Partner Project I worked on with Louis
 Our Addtional Features Are:
 - Streamlit UI (should count as 2)
-- Addtional Pokemon/Moves
 - Images in UI for Pokemon
-- Leveling Up/Evolution for Pokemon
+- Addtional Pokemon/Moves for Leveling Up/Evolution
 - Battle Again Feature
 - Balancing for opponents
 - Capture chance (50%)
-
+- (wanted to have status moves but ran out of time so they just have 0 power and are basically placeholders)
 Make sure to check the requirements section.
 To run streamlit, run the code noramlly, then in the terminal enter streamlit run /Users/USER/Pokemon_Project.py or which ever directory it is stored in and named.
 
