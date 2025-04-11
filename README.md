@@ -8,6 +8,9 @@ Our Addtional Features Are:
 - Balancing for opponents
 - Capture chance (50%)
 - (wanted to have status moves but ran out of time so they just have 0 power and are basically placeholders)
+  
+This link should take you to where the app is being hosten and you can play it there https://pokemon-partner-project-o4rfybuewrjygkvzfbck8m.streamlit.app/ . However, I have not published anything beofre on streamlit so I am unsure if it will work at all or as intended.
+
 Make sure to check the requirements section.
 To run streamlit, run the code noramlly, then in the terminal enter streamlit run /Users/USER/Pokemon_Project.py or which ever directory it is stored in and named.
 
