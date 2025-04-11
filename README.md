@@ -1,2 +1,12 @@
 # Pokemon-Partner-Project
 This is my Partner Project I worked on with Louis
+Our Addtional Features Are:
+- Streamlit UI (should count as 2)
+- Addtional Pokemon/Moves
+- Images in UI for Pokemon
+- Leveling Up/Evolution for Pokemon
+- Battle Again Feature
+- Balancing for opponents
+
+Streamlit is a module for Python which allows for the creation of apps on webpages, we used it only to open a browser window for our UI. Many of the parts of streamlit are intuitive like st.write writing something on the website. However, streamlit becomes very complicated when managin inputs. To gather inputs form a user you (most of the time) have to use a form with a unique key. Then, streamlit dosent actually stop and wait for user inputs. To fix this, we used st.stop() to stop streamlit form continuing to run and st.rerun to rerun the program. This works beacsue streamlit has its own system of storing vairables. Streamlit uses st.session.state to store any type of vraible or data. This allows varibales to persist across streamlit even when everything is stopped and reran. This basically allowed us to keep variables while the porgam reran after user inputs. 
+If you have any questions let me know!
