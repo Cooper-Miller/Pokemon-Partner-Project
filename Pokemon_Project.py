@@ -474,7 +474,6 @@ if 'again' not in st.session_state:
 if 'yr_pokedex' not in st.session_state:
     st.session_state.yr_pokedex = pokedex()
     st.session_state.yr_pokedex.add(starter_pkm)
-    st.session_state.yr_pokedex.add(Pokemon('Pikachu', 0, 0))
 
 # IF the user wants to battle they get to chose a pokemon if they have more then one using a form and then they battle an opponet that is scaled to them
 if st.session_state.again == 'y':
