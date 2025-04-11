@@ -527,5 +527,3 @@ if st.session_state.again == 'y':
                     st.stop()
 # Form counter so that the forms have unique keys
     st.session_state.form_counter += 1
-
-# streamlit run /Users/coopermiller/Pokemon_Project.py
