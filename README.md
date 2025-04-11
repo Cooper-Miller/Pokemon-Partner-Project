@@ -9,7 +9,7 @@ Our Addtional Features Are:
 - Capture chance (50%)
 - (wanted to have status moves but ran out of time so they just have 0 power and are basically placeholders)
   
-This link should take you to where the app is being hosted and you can play it there https://pokemon-partner-project-o4rfybuewrjygkvzfbck8m.streamlit.app/ . However, I have not published anything before on Streamlit so I am unsure if it will work at all or as intended.
+This link should take you to where the app is being hosted and you can play it there https://pokemon-partner-project-k4ryhct2xmaasyxpmgtzkj.streamlit.app/ . However, I have not published anything before on Streamlit so I am unsure if it will work at all or as intended.
 
 Make sure to check the requirements section to run it on your own computer.
 To run streamlit, run the code noramlly, then in the terminal enter streamlit run /Users/USER/Pokemon_Project.py or which ever directory it is stored in and named.
